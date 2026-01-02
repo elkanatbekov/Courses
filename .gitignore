@@ -1,0 +1,29 @@
+gitignore
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.ds_store
+.DS_Store
+
+# Generated files
+/captures
+.externalNativeBuild
+.cxx
+/native-libs
+
+# Kotlin
+.kotlin/
+
+# Koin / Other injection generated
+koin-generated/

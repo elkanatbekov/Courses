@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#12B956</color>
+    <color name="colorPrimaryVariant">#0FA14B</color>
+    <color name="colorSecondary">#12B956</color>
+    <color name="black">#000000</color>
+    <color name="green">#0FA14B</color>
+    <color name="light_green">#12B956</color>
+    <color name="white">#F2F2F3</color>
+    <color name="neutral_grey">#8A8A8A</color>
+    <color name="slate_grey">#4D555E</color>
+    <color name="dark_graphite">#32333A</color>
+    <color name="dark_graphite_semi_transparent">#4D32333A</color>
+
+    <color name="background_app">#1C1E20</color>
+
+    <color name="green_accent">#00C853</color>
+    <color name="link_green">#388E3C</color>
+
+    <color name="dark_grey">#24252A</color>
+</resources>

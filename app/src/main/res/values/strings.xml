@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="register_text">Нету аккаунта? <font color="#12B956">Регистрация</font></string>
+    <string name="forgot_password">Забыл пароль</string>
+    <string name="profile">Аккаунт</string>
+    <string name="home">Главная</string>
+    <string name="favorite">Избранное</string>
+    <string name="enter">Вход</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="search_courses">Search courses…</string>
+    <string name="filter">Фильтр</string>
+    <string name="by_date_added">По дате добавления</string>
+    <string name="course_cover">Обложка курса</string>
+    <string name="more_details">Подробнее</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vk">VK</string>
+    <string name="ok">OK</string>
+    <string name="enter_your_password">Введите пароль</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+</resources>
